@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Focaan
 - 👀 I’m interested in/snažím se naučit LUA/HTML
 - 📫 Making car liveries for fun
-- ⚡ Fun fact: I love doing thinks in fivem.
+- ⚡ Fun fact: I love doing things in fivem.
 
 <!---
 Focaan/Focaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
