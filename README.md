@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Server's
-- **LWRP RP (2023-2024)**  
+- **LWRP (2023-2024)**  
   A WL-OFF server, my first fivem project. Covering UI and LUA.
 
 - **Darkway RP (2024)**  
