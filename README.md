@@ -7,5 +7,5 @@
 - **Darkway RP (2024)**  
   A successful WL-OFF roleplay server owned by a friend. I contributed as a LUA developer for a little bit.
 
-- **Eclipse RP (2024-now)**  
+- **Eclipse RP (2024-2025)**  
   A very succesful WL-OFF server, owned by a friend. I worked as a LUA, UI and discord bot dev. 
